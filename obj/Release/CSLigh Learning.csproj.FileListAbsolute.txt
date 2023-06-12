@@ -1,0 +1,8 @@
+E:\C# projects\CSLigh Learning\CSLigh Learning\bin\Release\CSLigh Learning.exe.config
+E:\C# projects\CSLigh Learning\CSLigh Learning\bin\Release\CSLigh Learning.exe
+E:\C# projects\CSLigh Learning\CSLigh Learning\bin\Release\CSLigh Learning.pdb
+E:\C# projects\CSLigh Learning\CSLigh Learning\obj\Release\CSLigh Learning.csproj.AssemblyReference.cache
+E:\C# projects\CSLigh Learning\CSLigh Learning\obj\Release\CSLigh Learning.csproj.SuggestedBindingRedirects.cache
+E:\C# projects\CSLigh Learning\CSLigh Learning\obj\Release\CSLigh Learning.csproj.CoreCompileInputs.cache
+E:\C# projects\CSLigh Learning\CSLigh Learning\obj\Release\CSLigh Learning.exe
+E:\C# projects\CSLigh Learning\CSLigh Learning\obj\Release\CSLigh Learning.pdb

@@ -1,0 +1,8 @@
+E:\C# projects\CSLigh Learning\CSLigh Learning\obj\Release\Running in a Woods.csproj.AssemblyReference.cache
+E:\C# projects\CSLigh Learning\CSLigh Learning\obj\Release\Running in a Woods.csproj.SuggestedBindingRedirects.cache
+E:\C# projects\CSLigh Learning\CSLigh Learning\obj\Release\Running in a Woods.csproj.CoreCompileInputs.cache
+E:\C# projects\CSLigh Learning\CSLigh Learning\bin\Release\RunningInTheWoods.exe.config
+E:\C# projects\CSLigh Learning\CSLigh Learning\bin\Release\RunningInTheWoods.exe
+E:\C# projects\CSLigh Learning\CSLigh Learning\bin\Release\RunningInTheWoods.pdb
+E:\C# projects\CSLigh Learning\CSLigh Learning\obj\Release\RunningInTheWoods.exe
+E:\C# projects\CSLigh Learning\CSLigh Learning\obj\Release\RunningInTheWoods.pdb
